@@ -63,11 +63,11 @@ Após a análise dos dados, foram identificados os seguintes fatores que influen
 Aqui estão alguns exemplos de visualizações criadas durante a análise:
 
 1. **Taxa de Sobrevivência por Classe de Passageiros:**
-   ![Survival by Class](titanic/1.png)
+   ![Survival by Class](titanic/1.PNG)
 
 2. **Taxa de Sobrevivência por Gênero:**
-   ![Survival by Gender](titanic/2.png)
+   ![Survival by Gender](titanic/2.PNG)
 
 3. **Taxa de Sobrevivência por Faixa Etária:**
-   ![Survival by Age Group](titanic/3.png)
+   ![Survival by Age Group](titanic/3.PNG)
 
